@@ -1,0 +1,2 @@
+Prefix plugins/AdaptiveLGOCV/example/
+Plugin AdaptiveLGOCV inputfile none outputfile output.rds
